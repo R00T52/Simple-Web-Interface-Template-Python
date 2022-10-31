@@ -3,7 +3,6 @@ ___
 * __PYTHON__
     * _EEL_
     * _SQLITE3_
-    * _PYINSTALLER_
 * __HTML__
 * __CSS__
 * __JS__
