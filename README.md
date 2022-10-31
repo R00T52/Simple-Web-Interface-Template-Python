@@ -4,7 +4,6 @@ ___
     * _EEL_
     * _SQLITE3_
     * _PYINSTALLER_
-    * _
 * __HTML__
 * __CSS__
 * __JS__
@@ -24,5 +23,3 @@ ___
 * Login: Admin
 * Password: Admin
 ___
->__COMPILE__
->
